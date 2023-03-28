@@ -1,0 +1,27 @@
+.main{
+    background-color: #121212;
+    color: #FFFFFF;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 12px;
+    font-weight: bold;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.game{
+    border-color: #6d2eff;
+    border-radius: 10px;
+    border-style: solid;
+    padding: 0;
+    margin: auto;
+    display: block;
+}
+
+.title{
+    color: #6d2eff;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
